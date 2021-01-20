@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactSpa/static/css/main.e6d8bcb6.chunk.css",
+    "main.js": "/ReactSpa/static/js/main.4d4a366c.chunk.js",
+    "main.js.map": "/ReactSpa/static/js/main.4d4a366c.chunk.js.map",
+    "runtime-main.js": "/ReactSpa/static/js/runtime-main.c7d8632e.js",
+    "runtime-main.js.map": "/ReactSpa/static/js/runtime-main.c7d8632e.js.map",
+    "static/js/2.c7707fe3.chunk.js": "/ReactSpa/static/js/2.c7707fe3.chunk.js",
+    "static/js/2.c7707fe3.chunk.js.map": "/ReactSpa/static/js/2.c7707fe3.chunk.js.map",
+    "index.html": "/ReactSpa/index.html",
+    "static/css/main.e6d8bcb6.chunk.css.map": "/ReactSpa/static/css/main.e6d8bcb6.chunk.css.map",
+    "static/js/2.c7707fe3.chunk.js.LICENSE.txt": "/ReactSpa/static/js/2.c7707fe3.chunk.js.LICENSE.txt",
+    "static/media/bar.jpg": "/ReactSpa/static/media/bar.b21dbcd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7d8632e.js",
+    "static/js/2.c7707fe3.chunk.js",
+    "static/css/main.e6d8bcb6.chunk.css",
+    "static/js/main.4d4a366c.chunk.js"
+  ]
+}
